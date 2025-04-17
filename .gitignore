@@ -1,0 +1,32 @@
+# Build directories
+/build/
+/cmake-build-debug/
+
+.vscode/
+.external/
+# IDE settings
+.idea/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+
+# Logs and temporary files
+*.log
+*.tmp
+*.marks
+
+# Compiled files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.a
+*.lib
+*.class
+
+# Other
+*.iml
+*.ts
