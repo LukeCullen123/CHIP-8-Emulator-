@@ -1,6 +1,6 @@
 # CHIP-8 Emulator
 
-This is a CHIP-8 emulator written in C++.
+This is a CHIP-8 emulator written in C.
 
 ## Features
 - Emulates the CHIP-8 virtual machine.
