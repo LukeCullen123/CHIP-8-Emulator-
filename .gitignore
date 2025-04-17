@@ -3,7 +3,7 @@
 /cmake-build-debug/
 
 .vscode/
-.external/
+external/SDL
 # IDE settings
 .idea/
 
